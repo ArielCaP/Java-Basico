@@ -34,3 +34,4 @@ Mi primer proyecto en Java. Es una calculadora básica que permite hacer sumas, 
 | Indentación define bloques | Llaves `{ }` definen bloques |
 
 ## 🚀 Cómo ejecutarlo
+Main.java
